@@ -26,15 +26,24 @@ The project demonstrates how to create a basic form to collect user details, pro
 ## **Folder Structure**
 first-form/
 │
+
 ├── public/
+
 │ └── style.css # CSS file for styling the form and success page
+
 │
 ├── views/
+
 │ ├── form.ejs # User registration form template
+
 │ └── success.ejs # Success page template
+
 │
+
 ├── server.js # Main Node.js server file
+
 └── package.json # Node.js project dependencies
+
 
 
 ---
